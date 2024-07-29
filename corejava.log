@@ -1,0 +1,6 @@
+2024-07-23 08:05:22,594 ERROR c.c.E.Exception [main] Exception while divide the number
+java.lang.ArithmeticException: / by zero
+	at com.corejavaproject.exception.ExceptionExample.divide(Exception.java:17) [main/:?]
+	at com.corejavaproject.exception.ExceptionExample.main(Exception.java:10) [main/:?]
+2024-07-23 08:05:22,674 INFO c.c.E.Exception [main] Response:0
+2024-07-23 08:05:22,674 INFO c.c.E.Exception [main] Output:0
